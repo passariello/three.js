@@ -9,9 +9,9 @@
   },
   "devDependencies": {
     "failonlyreporter": "^1.0.0",
-    "jimp": "^0.12.0",
+    "jimp": "^1.6.0",
     "pixelmatch": "^5.2.0",
-    "puppeteer": "10.0.0",
+    "puppeteer": "24.22.3",
     "qunit": "^2.10.0",
     "rimraf": "^3.0.2",
     "serve-handler": "^6.1.2"
